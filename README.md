@@ -25,3 +25,7 @@ This project is a simple, extensible calculator implemented in Java using Spring
 
    ```bash
    git clone https://github.com/LouisSongBU/Calculator.git
+   
+### Unit test
+
+Run src/test/java/me/Louis/calculator/CalculatorTest.java
